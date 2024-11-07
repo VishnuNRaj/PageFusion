@@ -1,0 +1,6 @@
+[submodule "PageFusion_Backend"]
+	path = PageFusion_Backend
+	url = https://github.com/VishnuNRaj/PageFusion_Backend.git
+[submodule "PageFusion_Frontend"]
+	path = PageFusion_Frontend
+	url = https://github.com/VishnuNRaj/PageFusion_Frontend.git
